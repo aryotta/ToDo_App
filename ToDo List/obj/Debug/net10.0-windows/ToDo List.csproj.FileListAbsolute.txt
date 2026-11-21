@@ -1,0 +1,20 @@
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\bin\Debug\net10.0-windows\ToDo List.exe
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\bin\Debug\net10.0-windows\ToDo List.deps.json
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\bin\Debug\net10.0-windows\ToDo List.runtimeconfig.json
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\bin\Debug\net10.0-windows\ToDo List.dll
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\bin\Debug\net10.0-windows\ToDo List.pdb
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\App.g.cs
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List_MarkupCompile.cache
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List_MarkupCompile.lref
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\MainWindow.baml
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.g.resources
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.AssemblyInfoInputs.cache
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.AssemblyInfo.cs
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.csproj.CoreCompileInputs.cache
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.dll
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\refint\ToDo List.dll
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.pdb
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ToDo List.genruntimeconfig.cache
+D:\Programs\JetBrains\Project\Rider\Practice\ToDo List\ToDo List\obj\Debug\net10.0-windows\ref\ToDo List.dll
